@@ -1,7 +1,1 @@
-<img src="assets/hero.png" alt="Arhaan Ansari - I build AI agents, tools and small products" width="100%">
-
-<img src="assets/skills-tiles.png" alt="JS / TS, Python, HTML / CSS" width="100%">
-
-### What I'm building
-
-<img src="assets/projects.png" alt="Agent-Ben, Knots, Arhaan-MCP" width="100%">
+<img src="terminal-profile.gif" alt="Arhaan Ansari terminal profile with animated cat, contribution snapshot and Agent-Ben, Knots, Arhaan-MCP project cards" width="100%">
